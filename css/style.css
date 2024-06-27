@@ -55,7 +55,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  background: url(../assets/images/background-pattern-desktop.svg);
+  background: url("../assets/images/background-pattern-desktop.svg");
 }
 
 .faq-container {
