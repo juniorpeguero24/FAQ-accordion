@@ -55,7 +55,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  background: url("assets/images/background-pattern-desktop.svg");
+  background: url("images/background-pattern-desktop.svg");
 }
 
 .faq-container {
@@ -155,7 +155,7 @@ ul {
 
   .banner {
     width: 100%;
-    background: url("assets/images/background-pattern-mobile.svg");
+    background: url("images/background-pattern-mobile.svg");
     position: absolute;
     height: 220px;
     top: 0;
